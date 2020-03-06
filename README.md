@@ -15,11 +15,11 @@ Requires PHP 7.0+
       "repositories": [
         {
           "type": "vcs",
-          "url": "git@github.com:areut-su/php-graph.git"
+          "url": "https://github.com/areut-su/php-graph.git"
         }
-       ],
+      ],
       "require": {
-        "areut-su/php-graph": "master@dev"
+        "areut/php-graph": "dev-master"
       }
     }
    
