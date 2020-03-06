@@ -15,7 +15,7 @@ Requires PHP 7.0+
       "repositories": [
         {
           "type": "vcs",
-          "url": "git@github.com:alekseyseo/php-graph.git"
+          "url": "git@github.com:areut-su/php-graph.git"
         }
        ],
       "require": {
