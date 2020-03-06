@@ -1,5 +1,5 @@
 {
-  "name": "areut-su/php-graph",
+  "name": "areut/php-graph",
   "description": "Work with the graph.\nFinding paths using the BFS method",
   "minimum-stability": "dev",
   "license": "proprietary",
